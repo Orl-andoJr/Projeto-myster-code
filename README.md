@@ -34,7 +34,7 @@ Realizei uma única versão do projeto e utilizei cores vivas e bem chamativas r
 
 
 
-📌 Link do projeto no github Pages: 
+📌 Link do projeto no github Pages: https://orl-andojr.github.io/Projeto-myster-code/
  
 
 ---
